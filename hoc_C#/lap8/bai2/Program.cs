@@ -1,0 +1,15 @@
+﻿Square hv = new Square();
+Console.WriteLine("set canh bang 2"); 
+hv.size = 2;
+Console.WriteLine("dien tich co canh bang 2" + hv.getArea());
+Console.WriteLine("set dien tich bang 16");
+hv.area = 16;
+Console.WriteLine("canh cua hv co dien tich 16:" + hv.getSize());
+Console.WriteLine("");
+Cube hlp = new Cube();
+hlp.area = 24;
+hlp.size = 2;
+hlp.volume = 8;
+Console.WriteLine("set canh hlp bang 2 dien tich cua no {0} the tich cua no {1}", hlp.getArea(), hlp.getVolume());
+Console.WriteLine("hlp co dien la 24 thi canh cua no {0}", hlp.getSizeInArea());
+Console.WriteLine("hlp co the tich la 6 thi cua no {0}", hlp.getSizeInVolume());

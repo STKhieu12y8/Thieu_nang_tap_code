@@ -1,0 +1,15 @@
+C:\Code\hoc_C#\lap10\bai2\bin\Debug\net6.0\bai2.exe
+C:\Code\hoc_C#\lap10\bai2\bin\Debug\net6.0\bai2.deps.json
+C:\Code\hoc_C#\lap10\bai2\bin\Debug\net6.0\bai2.runtimeconfig.json
+C:\Code\hoc_C#\lap10\bai2\bin\Debug\net6.0\bai2.dll
+C:\Code\hoc_C#\lap10\bai2\bin\Debug\net6.0\bai2.pdb
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.csproj.AssemblyReference.cache
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.AssemblyInfoInputs.cache
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.AssemblyInfo.cs
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.csproj.CoreCompileInputs.cache
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.dll
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\refint\bai2.dll
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.pdb
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\bai2.genruntimeconfig.cache
+C:\Code\hoc_C#\lap10\bai2\obj\Debug\net6.0\ref\bai2.dll

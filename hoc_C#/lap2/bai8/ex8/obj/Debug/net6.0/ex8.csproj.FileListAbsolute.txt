@@ -1,0 +1,15 @@
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.csproj.AssemblyReference.cache
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.AssemblyInfoInputs.cache
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.AssemblyInfo.cs
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.csproj.CoreCompileInputs.cache
+c:\Code\hoc_C#\lap2\bai8\ex8\bin\Debug\net6.0\ex8.exe
+c:\Code\hoc_C#\lap2\bai8\ex8\bin\Debug\net6.0\ex8.deps.json
+c:\Code\hoc_C#\lap2\bai8\ex8\bin\Debug\net6.0\ex8.runtimeconfig.json
+c:\Code\hoc_C#\lap2\bai8\ex8\bin\Debug\net6.0\ex8.dll
+c:\Code\hoc_C#\lap2\bai8\ex8\bin\Debug\net6.0\ex8.pdb
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.dll
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\refint\ex8.dll
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.pdb
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ex8.genruntimeconfig.cache
+c:\Code\hoc_C#\lap2\bai8\ex8\obj\Debug\net6.0\ref\ex8.dll

@@ -1,0 +1,78 @@
+.header {
+    height: 120px;
+    background-image: linear-gradient(0, #a5948e, #f53e2d);
+}
+
+.header__navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__navber-list {
+    list-style: none;
+    padding-left: 0;
+    position: relative;
+}
+
+.header__navbar-item {
+    margin: 0px 8px;
+    cursor: pointer;
+}
+
+.header__navbar-item,
+.header__navbar-item-link {
+    display: inline-block;
+    font-size: 1.8rem;
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 300;
+}
+.header__navbar-item--blod {
+    font-weight: 400;
+}
+.header__qr {
+    display: none;
+    background-color: var(--white-color);
+    width: 130px;
+    height: auto;
+    position: absolute;
+    top: 120%;
+    left: 10%;
+    padding: 6px;
+    overflow: hidden;
+    border-radius: 2px;
+    animation: fadeIn ease 1s;
+}
+.header__qr--img {
+    width: 100%;
+}
+.header__qr--app {
+    display: flex;
+    justify-content: space-between;
+}
+.header--qr-appstore,
+.header--qr--chplay {
+    width: 60px;
+    height: 30px;
+}
+.appDownload:hover .header__qr {
+    display: block;
+}
+.notify:hover .header__notify {
+    /* display: block; */
+}
+.header__notify {
+    /* display: none; */
+    position: absolute;
+    top: 130%;
+}
+
+.header__notify-list {
+
+}
+.header__notify-item {
+
+}
+.header__notify-link {
+
+}

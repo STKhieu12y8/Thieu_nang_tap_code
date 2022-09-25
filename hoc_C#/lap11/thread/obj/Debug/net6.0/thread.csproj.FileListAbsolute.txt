@@ -1,0 +1,15 @@
+C:\Code\hoc_C#\lap11\thread\bin\Debug\net6.0\thread.exe
+C:\Code\hoc_C#\lap11\thread\bin\Debug\net6.0\thread.deps.json
+C:\Code\hoc_C#\lap11\thread\bin\Debug\net6.0\thread.runtimeconfig.json
+C:\Code\hoc_C#\lap11\thread\bin\Debug\net6.0\thread.dll
+C:\Code\hoc_C#\lap11\thread\bin\Debug\net6.0\thread.pdb
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.csproj.AssemblyReference.cache
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.AssemblyInfoInputs.cache
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.AssemblyInfo.cs
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.csproj.CoreCompileInputs.cache
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.dll
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\refint\thread.dll
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.pdb
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\thread.genruntimeconfig.cache
+C:\Code\hoc_C#\lap11\thread\obj\Debug\net6.0\ref\thread.dll

@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.tool {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+    background-color: rgb(145, 145, 173);
+    font-size: 30px;
+}
+
+icon-icon,
+.size,
+.color {
+    display: inline-block;
+    height: 90%;
+    width: calc(100%/7);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+ion-icon:hover,
+.size:hover,
+.color:hover {
+    cursor: pointer;
+    background-color: red;
+}
+
+canvas {
+    width: 1200px;
+    height: 750px;
+    border: 1px solid red;
+}

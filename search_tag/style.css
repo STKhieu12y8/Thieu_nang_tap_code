@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: greenyellow;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    border: 2px solid red;
+    width: 400px;
+    padding: 4px;
+    background: whitesmoke;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.input_con {
+    border: 2px solid rgba(20, 13, 13, 0.199);
+    border-radius: 2px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.input_con li {
+    background-color: green;
+    margin: 4px 3px;
+    color: wheat;
+    font-size: 20px;
+    list-style: none;
+    border-radius: 8px;
+    padding: 0px 2px;
+    display: flex;
+    align-items: center;
+}
+
+.input_con input {
+    margin: 10px 0;
+    padding: 10px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    flex: 1;
+}
+
+.his {
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 2px;
+    transition: all 0.5s;
+}
+
+.btn {
+    background-color: rgb(64, 187, 64);
+    padding: 6px 10px;
+    margin: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.btn:hover {
+    padding: 8px 12px;
+    color: red;
+}
+.his:hover {
+    font-size: 18px;
+    color: red;
+}

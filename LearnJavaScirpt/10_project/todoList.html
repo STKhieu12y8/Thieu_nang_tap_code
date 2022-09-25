@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <style>
+        .container {
+            width: 480px;
+            font-family: 'Times New Roman', Times, serif;
+            inherits: inherit;
+            background-color: black;
+            position: relative;
+        }
+
+        .input {
+            width: 300px;
+            padding: 10px;
+            outline: none;
+            border: none;
+            background-color: gainsboro;
+            border-radius: 0 20px 0 20px;
+            transition: 0.5s;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .input:focus {
+            border-radius: 20px 0 20px 0;
+        }
+
+        .btn {
+            width: 140px;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            background-color: rgba(87, 211, 87, 0.8);
+            color: rgb(68, 15, 15);
+            cursor: pointer;
+            transition: 0.5s;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+
+        .btn:hover {
+            background-color: rgba(87, 211, 87, 1);
+            color: red;
+        }
+
+        ul {
+            position: absolute;
+            top: 30px;
+            right: 0;
+            left: 0;
+        }
+
+        li {
+            list-style-type: none;
+            padding: 10px 8px;
+            margin: 4px 0;
+            background-color: red;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <input type="text" placeholder="Enter job" class="input">
+        <button class="btn">ADD</button>
+        <ul class="list">
+        </ul>
+    </div>
+</body>
+<script>
+    const btn = document.querySelector('.btn')
+    const input = document.querySelector('.input')
+    const list = document.querySelector('.list')
+    const todoKey = 'todoList'
+    var todoList = []
+    var dataStore = JSON.parse(localStorage.getItem(todoKey))
+
+    if (JSON.parse(localStorage.getItem(todoKey)) != null) {
+        todoList = [...dataStore]
+        console.log(todoList)
+        todoList.forEach((item)=> {
+            console.log(item);
+        })
+    }
+
+
+    function render(List) {
+        // let job = List.map((todo, index) => {
+        //     return `<li key = ${index} >${todo}</li>`
+        // })
+        // list.innerHTML = job
+
+        List.forEach((item, index) => {
+            list.innerHTML += `<li key = ${index}}>${item}</li>`
+        })
+    }
+
+    btn.addEventListener("click", function () {
+        let newItem = input.value
+        todoList.push(newItem)
+        localStorage.setItem(todoKey, JSON.stringify(todoList))
+        render(todoList);
+    })
+
+
+    render(todoList);
+
+</script>
+
+</html>

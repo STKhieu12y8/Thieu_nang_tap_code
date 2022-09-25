@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Draw Wed normally</title>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="tool">
+        <input type="color" class="color">
+        <ion-icon name="clipboard-outline" class="eraser"></ion-icon>
+        <ion-icon name="remove-outline" class="deincrease"></ion-icon>
+        <span class = "size"></span>
+        <ion-icon name="add-outline" class = "increase"></ion-icon>
+        <a download = "test.png" class = "save"><ion-icon name="save-outline" ></ion-icon></a>
+        <ion-icon name="close-circle-outline" class = "close"></ion-icon>
+    </div>
+
+    <canvas id="canvas"></canvas>
+
+    
+</body>
+<script src="./app.js"></script>
+
+</html>

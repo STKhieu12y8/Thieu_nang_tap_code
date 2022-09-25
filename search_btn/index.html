@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEARCH</title>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <input type="text" class="search__input">
+        <button class="search_btn">
+            <ion-icon name="search-outline"></ion-icon>
+        </button>
+    </div>
+</body>
+    <script>
+        let searchBTN = document.querySelector('.search_btn')
+        searchBTN.addEventListener("click", function() {
+            this.parentElement.classList.add('show')
+            this.previousElementSibling.focus()
+            document.addEventListener("keydown", function(e) {
+                if (e.keyCode == 27)
+                    searchBTN.parentElement.classList.remove('show')   
+            })
+        })
+    </script>
+</html>

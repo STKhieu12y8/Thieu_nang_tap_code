@@ -1,0 +1,15 @@
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.csproj.AssemblyReference.cache
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.AssemblyInfoInputs.cache
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.AssemblyInfo.cs
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.csproj.CoreCompileInputs.cache
+c:\Code\hoc_C#\lap8\bai5\bin\Debug\net6.0\bai5.exe
+c:\Code\hoc_C#\lap8\bai5\bin\Debug\net6.0\bai5.deps.json
+c:\Code\hoc_C#\lap8\bai5\bin\Debug\net6.0\bai5.runtimeconfig.json
+c:\Code\hoc_C#\lap8\bai5\bin\Debug\net6.0\bai5.dll
+c:\Code\hoc_C#\lap8\bai5\bin\Debug\net6.0\bai5.pdb
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.dll
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\refint\bai5.dll
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.pdb
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\bai5.genruntimeconfig.cache
+c:\Code\hoc_C#\lap8\bai5\obj\Debug\net6.0\ref\bai5.dll

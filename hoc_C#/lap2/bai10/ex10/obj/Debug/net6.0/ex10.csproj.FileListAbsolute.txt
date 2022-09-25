@@ -1,0 +1,15 @@
+c:\Code\hoc_C#\lap2\bai10\ex10\bin\Debug\net6.0\ex10.exe
+c:\Code\hoc_C#\lap2\bai10\ex10\bin\Debug\net6.0\ex10.deps.json
+c:\Code\hoc_C#\lap2\bai10\ex10\bin\Debug\net6.0\ex10.runtimeconfig.json
+c:\Code\hoc_C#\lap2\bai10\ex10\bin\Debug\net6.0\ex10.dll
+c:\Code\hoc_C#\lap2\bai10\ex10\bin\Debug\net6.0\ex10.pdb
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.csproj.AssemblyReference.cache
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.AssemblyInfoInputs.cache
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.AssemblyInfo.cs
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.csproj.CoreCompileInputs.cache
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.dll
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\refint\ex10.dll
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.pdb
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ex10.genruntimeconfig.cache
+c:\Code\hoc_C#\lap2\bai10\ex10\obj\Debug\net6.0\ref\ex10.dll

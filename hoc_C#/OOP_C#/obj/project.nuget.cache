@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TeOnGvugO+jT/Nixhfbv/0CiK5LOx1UT2T7y+jtm2KBzHCG0+0N32eEhEW2oxJpkMW4y+cBGijBSM9wk+FU/+A==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\hoc_C#\\OOP_C#\\OOP_rewrite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doanh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
